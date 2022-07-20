@@ -64,11 +64,11 @@
 				1C774B062887163C00BEF9A5 /* SceneDelegate.swift */,
 				1C774B082887163C00BEF9A5 /* ViewController.swift */,
 				1C774B1828872C0800BEF9A5 /* Posts.swift */,
+				1C774B1A2887379600BEF9A5 /* PostsCell.swift */,
 				1C774B0A2887163C00BEF9A5 /* Main.storyboard */,
 				1C774B0D2887163F00BEF9A5 /* Assets.xcassets */,
 				1C774B0F2887163F00BEF9A5 /* LaunchScreen.storyboard */,
 				1C774B122887163F00BEF9A5 /* Info.plist */,
-				1C774B1A2887379600BEF9A5 /* PostsCell.swift */,
 			);
 			path = APIDemo;
 			sourceTree = "<group>";
