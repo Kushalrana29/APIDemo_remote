@@ -7,7 +7,7 @@
 
 import Foundation
 
-// Singleton paatern
+/// Singleton paatern
 class APIManager {
     
     static let shared = APIManager()
