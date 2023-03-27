@@ -7,6 +7,6 @@
 
 import UIKit
 
-/// constant
+// constant
 let APPI_URL = URL(string: "https://jsonplaceholder.typicode.com/posts")!
 
